@@ -102,10 +102,10 @@ form div.presence {
 form div.presence p {
   text-align: center;
 }
-input.enter_button {
+input.leave_button {
   background: #ff0000;
 }
-input.leave_button {
+input.enter_button {
   background: #00ff00;
 }
 input.enter_button, input.leave_button {
